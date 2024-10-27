@@ -14,7 +14,7 @@ API de Farmácia, uma solução eficiente e fácil de usar para o gerenciamento 
 
 | Parâmetro   | Tipo       | Descrição                           |
 | :---------- | :--------- | :---------------------------------- |
-| `api_key` | `string` | **Obrigatório**. A chave da sua API |
+| `api_key` | `string` | **Obrigatório**. |
 
 #### Retorna um item
 
